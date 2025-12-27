@@ -49,7 +49,7 @@ bonsai --version or npx bonsai --version
 Log in to your Bonsai account:
 
 ```bash
-bonsai login
+bonsai login or npx bonsai login
 ```
 
 **What happens during login:**

@@ -76,7 +76,7 @@ npx bonsai start claude
 When you're done, you can logout:
 
 ```bash
-bonsai logout
+bonsai logout or npx bonsai logout
 ```
 
 ## 🎯 Use Cases

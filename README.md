@@ -41,7 +41,7 @@ npm install -g @bonsai-ai/cli
 Verify the installation:
 
 ```bash
-bonsai --version
+bonsai --version or npx bonsai --version
 ```
 
 ### Step 2: Authenticate with Bonsai

@@ -62,7 +62,7 @@ bonsai login or npx bonsai login
 Launch a Claude Code session:
 
 ```bash
-bonsai start claude
+npx bonsai start claude
 ```
 
 **What this command does:**
